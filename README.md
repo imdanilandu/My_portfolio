@@ -8,7 +8,7 @@
 
 ## Навыки и технологии
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``Postgre SQL``
+``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``PostgreSQL``
 
 ## Проекты
 
