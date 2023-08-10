@@ -20,7 +20,7 @@
 
 <p>Как решал: Провел frontend- и backend-тестирование продукта - функционал "Личные события" на вкладке "Расписание" в портале учителя на сайте "Skyeng"<p>
 
-> <a href="https://qc-bug-report.atlassian.net/l/cp/RZus1jJ1">Ссылка на проект</a>
+> <a href="https://qc-bug-report.atlassian.net/l/cp/soLVW9Dr">Ссылка на проект</a>
  > <p> логин: danil_stafeychuk_97@mail.ru </p>
 > <p> пароль: holdingontoyou1 </p>
  
