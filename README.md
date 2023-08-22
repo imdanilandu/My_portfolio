@@ -7,8 +7,7 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``PostgreSQL``
+``Jira``,``qase.io``,``PostgreSQL``,`` Postman``, ``SoapUI``, ``Swagger``, ``Trello``, ``Git``, ``Chrome DevTools``
 
 ## Проекты
 
@@ -20,9 +19,7 @@
 
 <p>Как решал: Провел frontend- и backend-тестирование продукта - функционал "Личные события" на вкладке "Расписание" в портале учителя на сайте "Skyeng"<p>
 
-> <a href="https://qc-bug-report.atlassian.net/l/cp/soLVW9Dr">Ссылка на проект</a>
- > <p> логин: danil_stafeychuk_97@mail.ru </p>
-> <p> пароль: holdingontoyou1 </p>
+> <a href="https://www.notion.so/84a558e56ffa40b3b34605ed59c09921">Ссылка на проект</a>
  
  <p>Выводы (итоги):<p>
 <ol>
@@ -33,4 +30,4 @@
 </ol>
 
 ## Контактная информация
-- Email: danil_stafeychuk_97@email.ru
+- Email: danil_stafeychuk_97@mail.ru
