@@ -7,6 +7,7 @@
 <br>
 
 ## Навыки и технологии
+
 ``Jira``, ``Confluence``, ``Qase.io``, ``Sitechko``, ``Checkvist``, ``Trello``, ``Miro``, ``Notion``, ``Git``,
 
 ``Chrome DevTools``, ``Postman``, ``Mockoon``, ``Swagger``, ``SOAP UI``, ``cURL``, ``PowerShell``, ``PostgreSQL``
@@ -42,9 +43,9 @@
 
 ## Контактная информация
 <div id="badges">
-  <a href="danilstafeychuk97@gmail.ru">
-  <img src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=red"/> 
-  </a>
+  <a href="https://danil_stafeychuk_97@mail.ru">
+  <img src="https://img.shields.io/badge/mail-blue?logo=mail&logoColor=white"/>
+  </a> 
   <a href="https://t.me/imdanilandu">
   <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=light%20blue" alt="Telegram Badge"/>
   </a>
