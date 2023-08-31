@@ -44,15 +44,18 @@
 ## Контактная информация
 
 <div id="badges">
-  <a href="danilstafeychuk97@gmail.ru">
-  <img src="https://img.shields.io/badge/mail-white?logo=gmail&logoColor=red" alt="Gmail Badge"/>
-  </a>
   <a href="danil_stafeychuk_97@mail.ru">
   <img src="https://img.shields.io/badge/mail-blue?logo=mail&logoColor=white" alt="Mail Badge"/>
+  </a>
+  <a href="danilstafeychuk97@gmail.ru">
+  <img src="https://img.shields.io/badge/mail-white?logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/imdanilandu">
   <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=light%20blue" alt="Telegram Badge"/>
   </a>
+  <a href="https://instagram.com/imdanilandu?igshid=MmIzYWVlNDQ5Yg==">
+  <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a> 
 </div><br>
 
 <img src="https://komarev.com/ghpvc/?username=yimdanilandu&style=flat-square&color=blue" alt=""/>
