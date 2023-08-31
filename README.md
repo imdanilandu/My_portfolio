@@ -53,4 +53,6 @@
   <a href="https://t.me/imdanilandu">
   <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=light%20blue" alt="Telegram Badge"/>
   </a>
-</div>
+</div><br>
+
+<img src="https://komarev.com/ghpvc/?username=yimdanilandu&style=flat-square&color=blue" alt=""/>
