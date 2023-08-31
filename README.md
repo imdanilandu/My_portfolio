@@ -43,7 +43,7 @@
 
 ## Контактная информация
 <div id="badges">
-  <a href="https://danil_stafeychuk_97@mail.ru">
+  <a href="danil_stafeychuk_97@mail.ru">
   <img src="https://img.shields.io/badge/mail-blue?logo=mail&logoColor=white"/>
   </a> 
   <a href="https://t.me/imdanilandu">
