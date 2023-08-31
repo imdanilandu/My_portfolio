@@ -32,7 +32,7 @@
   
 <a href="https://www.notion.so/84a558e56ffa40b3b34605ed59c09921">``Курсовой проект``</a>
  
- <p><em>Выводы (итоги)</em>:<p>
+ <p><em>Выводы (итоги)</em>:</p>
 <ol>
   <li>В ходе функционального тестирования один из приемочных тестов оказался проваленным, также было найдено еще несколько дефектов со значительной серьезностью</li>
   <li>При тестировании API был обнаружен дефект с блокирующей серьезностью</li>
@@ -41,5 +41,11 @@
 </ol>
 
 ## Контактная информация
-- Email: danil_stafeychuk_97@mail.ru
-- Telegram: https://t.me/imdanilandu
+<div id="badges">
+  <a href="danilstafeychuk97@gmail.ru">
+  <img src="https://img.shields.io/badge/Gmail-white?logo=Gmail&logoColor=red"/> 
+  </a>
+  <a href="https://t.me/imdanilandu">
+  <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=light%20blue" alt="Telegram Badge"/>
+  </a>
+</div>
