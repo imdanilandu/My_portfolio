@@ -13,6 +13,7 @@
 ## Навыки и технологии
 
 ``Jira``, ``Confluence``, ``Qase.io``, ``Sitechko``, ``Checkvist``, ``Trello``, ``Miro``, ``Notion``, ``Git``,
+
 ``Chrome DevTools``, ``Postman``, ``Mockoon``, ``Swagger``, ``SOAP UI``, ``cURL``, ``PowerShell``, ``PostgreSQL``
 
 ## Проекты
