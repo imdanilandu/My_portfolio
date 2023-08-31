@@ -6,10 +6,13 @@
 Я - начинающий тестировщик из **<em>Красноярска</em>**, поэтому не понаслышке знаю про **<em>smoke</em>**-тестирование и метод **<em>черного</em>** ящика :wink:<br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики. <br>
 
+<div>
+  <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="300" height="200"/>
+</div>
+
 ## Навыки и технологии
 
 ``Jira``, ``Confluence``, ``Qase.io``, ``Sitechko``, ``Checkvist``, ``Trello``, ``Miro``, ``Notion``, ``Git``,
-
 ``Chrome DevTools``, ``Postman``, ``Mockoon``, ``Swagger``, ``SOAP UI``, ``cURL``, ``PowerShell``, ``PostgreSQL``
 
 ## Проекты
