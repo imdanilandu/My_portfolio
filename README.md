@@ -45,10 +45,9 @@
   <li>Продукт - портал учителя требует устранения обнаруженных дефектов</li>
 </ol>
 
-## Контактная информация
-
+## Контактная информация <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="20" height="20"/>
 <div id="badges">
-  <a href="danil_stafeychuk_97@mail.ru">
+   <a href="danil_stafeychuk_97@mail.ru">
   <img src="https://img.shields.io/badge/mail-blue?logo=mail&logoColor=white" alt="Mail Badge"/>
   </a>
   <a href="danilstafeychuk97@gmail.ru">
