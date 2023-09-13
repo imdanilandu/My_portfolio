@@ -53,10 +53,13 @@
   <a href="danilstafeychuk97@gmail.ru">
   <img src="https://img.shields.io/badge/mail-white?logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%BB-%D1%81%D1%82%D0%B0%D1%84%D0%B5%D0%B9%D1%87%D1%83%D0%BA-a8b052291/">
+  <img src="https://img.shields.io/badge/Linkedln-white?logo=linkedIn&logoColor=blue" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://t.me/imdanilandu">
   <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=light%20blue" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/imdanilandu?igshid=MmIzYWVlNDQ5Yg==">
+    <a href="https://instagram.com/imdanilandu?igshid=MmIzYWVlNDQ5Yg==">
   <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> 
 </div><br>
