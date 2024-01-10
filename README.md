@@ -12,9 +12,9 @@
 
 ## Навыки и технологии
 
-``Jira``, ``Confluence``, ``Qase.io``, ``Sitechko``, ``Checkvist``, ``Trello``, ``Miro``, ``Notion``,  ``Figma``, ``draw.io``,
+``Jira``, ``Confluence``, ``Qase.io``, ``Sitechko``, ``Checkvist``, ``Trello``, ``Miro``, ``Notion``,  ``Figma``, ``draw.io``,  ``Git``,
 
- ``Git``, ``Chrome DevTools``, ``Postman``, ``Mockoon``, ``Swagger``, ``SOAP UI``, ``cURL``, ``PowerShell``, ``PostgreSQL``, ``Python``
+``Chrome DevTools``, ``Postman``, ``Mockoon``, ``Swagger``, ``SOAP UI``, ``cURL``, ``PowerShell``, ``PostgreSQL``, ``Python``
 
 ## Проекты
 
