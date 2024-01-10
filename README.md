@@ -35,7 +35,7 @@
 
 <p><em>Как решал</em>:</p>
   
-<a href="https://www.notion.so/84a558e56ffa40b3b34605ed59c09921">``Курсовой проект``</a>
+<a href="[https://www.notion.so/84a558e56ffa40b3b34605ed59c09921](https://reinvented-toy-4c5.notion.site/84a558e56ffa40b3b34605ed59c09921?pvs=4)">``Курсовой проект``</a>
  
  <p><em>Выводы (итоги)</em>:</p>
 <ol>
