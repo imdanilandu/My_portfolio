@@ -52,7 +52,7 @@
 
 <p><em>Как решал</em>:</p>
   
-<a href="https://reinvented-toy-4c5.notion.site/e212d7a4e011435fbcf42698fd88087a?pvs=4">``Проект по тестированию  мобильного приложения``</a>
+<a href="https://reinvented-toy-4c5.notion.site/e212d7a4e011435fbcf42698fd88087a?pvs=4">``Проект по тестированию мобильного приложения``</a>
 
 ## Контактная информация <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="20" height="20"/>
 <div id="badges">
